@@ -1,0 +1,7 @@
+{
+	"author": "Sean McCann",
+	"description": "SIPML Angular service for use with DoubangoTelecom SIPML5.",
+	"name": "sm-angular-sipml",
+	"private": true,
+	"version": "1.0.0"
+}
